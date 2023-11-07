@@ -7,28 +7,11 @@ ReactDOM.render(
   <Container>
 
 <row>
-  teste
+  ola
 </row>
 
 
   </Container>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
