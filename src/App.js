@@ -1,19 +1,16 @@
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import { Container } from 'react-bootstrap';
+import {Container, Row} from 'react-bootstrap';
 
 ReactDOM.render(
 
   <Container>
 
-<row>
-  ola
-</row>
-
+<Row>
+  <h1>ola mundo</h1>
+</Row>
 
   </Container>
-
-
 
   ,
   document.getElementById('root')
